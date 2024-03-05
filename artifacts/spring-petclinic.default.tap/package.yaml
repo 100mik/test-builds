@@ -3,6 +3,7 @@ kind: Package
 metadata:
   name: spring-petclinic.default.tap.20240305212319.0.0
 spec:
+  releasedAt: "2024-03-04T21:25:00Z"
   refName: spring-petclinic.default.tap
   version: 20240305212319.0.0
   releaseNotes: |
