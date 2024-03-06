@@ -6,7 +6,7 @@ spec:
   packageRef:
     refName: spring-petclinic.default.tap
     versionSelection:
-      constraints: 20240305212319.0.0
+      constraints: 20240306120156.0.0
       prereleases: {}
   serviceAccountName: workload-installer
   values:
